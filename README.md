@@ -64,4 +64,4 @@ The contents of this repository are licensed under the [MIT License](LICENSE). P
 
 If you have any questions or want to connect with me, you can reach me via the contact information provided in my GitHub profile.
 
-Thank you for your interest in the Etch-A-Sketch project from The Odin Projec
+Thank you for your interest in the Etch-A-Sketch project from The Odin Project
