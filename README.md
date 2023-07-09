@@ -20,16 +20,13 @@ The Etch-A-Sketch project is a web-based application that emulates the drawing e
 To run the Etch-A-Sketch project locally, follow these steps:
 
 1. **Clone the repository**: Clone this repository to your local machine using the following command:
-git clone https://github.com/pradnyadeva/etch-a-sketch.git
+`git clone https://github.com/pradnyadeva/etch-a-sketch.git`
 
-markdown
-Copy code
+
 
 2. **Navigate to the project directory**: Move into the project directory:
-cd etch-a-sketch
+`cd etch-a-sketch`
 
-sql
-Copy code
 
 3. **Open the application**: Open the `index.html` file in your preferred web browser to launch the Etch-A-Sketch application.
 
